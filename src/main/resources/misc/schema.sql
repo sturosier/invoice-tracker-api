@@ -1,0 +1,11 @@
+-- DROP TABLE IF EXISTS invoices;
+--
+-- CREATE TABLE invoices
+-- (
+--     id          INT PRIMARY KEY AUTO_INCREMENT,
+--     name        VARCHAR(255) NOT NULL,
+--     description VARCHAR(255) NOT NULL,
+--     amount      DOUBLE(5, 2) NOT NULL,
+--     category    VARCHAR(255) NOT NULL,
+--     date        DATE NOT NULL
+-- );
